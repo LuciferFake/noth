@@ -1,3 +1,4 @@
+os.system("rm -rf /downloads/hhhhh.py")
 import  sys, os, random, time
 import os,sys
 import subprocess
